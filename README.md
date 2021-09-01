@@ -1,9 +1,9 @@
 ### Hi there, I'm Sachin Ravi- aka [oxyboy][website] 👋
 
-[![Website](https://img.shields.io/website?label=oxyboy.netlify.app&style=for-the-badge&url=https%3A%2F%2Foxoxyboy.netlify.app)](https://oxyboy.netlify.app/)
+[![Website](https://img.shields.io/website?label=oxyboy.netlify.app&style=for-the-badge&url=https%3A%2F%2Fox oxyboy.netlify.app)](https://oxyboy.netlify.app/)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/sachinravi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Full stack Developer and B.TECH software engineer!!
+## I'm completed B.TECH(computer Science)  & I'm Full Stack Developer !!
 
 - 👨‍💻 programmer by education:
 - 💻 coding by profession:
